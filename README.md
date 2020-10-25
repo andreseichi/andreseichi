@@ -29,6 +29,8 @@
 
 ---
 
+<img align="left" alt="André Tashiro's GitHub Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true" />
+
 
 [linkedin]: https://linkedin.com/in/andreseichi
 [twitter]: https://twitter.com/andre_seichi
