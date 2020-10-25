@@ -29,7 +29,7 @@
 
 ---
 
-<img align="left" alt="André Tashiro's GitHub Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true" />
+<img align="left" alt="André Tashiro's GitHub Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true&hide=stars" />
 
 
 [linkedin]: https://linkedin.com/in/andreseichi
