@@ -31,7 +31,7 @@
 
 <img align="left" alt="André Tashiro's GitHub Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true&hide=stars&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.andreseichi.vercel.app/api/top-langs/?username=andreseichi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.andreseichi.vercel.app/api/top-langs/?username=andreseichi&langs_count=5)]
 
 
 [linkedin]: https://linkedin.com/in/andreseichi
