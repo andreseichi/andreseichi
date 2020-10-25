@@ -1,5 +1,7 @@
 ## I'm André Tashiro and I'm not a programmer
 
+![Twitter Follow](https://img.shields.io/twitter/follow/andre_seichi?color=%231DA1F2&logo=twitter&style=plastic)
+
 ### Social media:
 
 [<img align="left" alt="andreseichi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
