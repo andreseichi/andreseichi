@@ -1,6 +1,10 @@
 ## I'm André Tashiro and I'm not a programmer
 
-![Twitter Follow](https://img.shields.io/twitter/follow/andre_seichi?color=%231DA1F2&logo=twitter&style=plastic)
+<p align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=andre_seichi" alt="Follow on Twitter">
+        <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/andre_seichi?color=%231DA1F2&logo=twitter&style=plastic" />
+    </a>
+</p>
 
 ### Social media:
 
@@ -33,9 +37,7 @@
 
 <img align="left" alt="André Tashiro's GitHub Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true&hide=stars&count_private=true" />
 
-
 ![Top Langs](https://github-readme-stats.andreseichi.vercel.app/api/top-langs/?username=andreseichi&langs_count=6&layout=compact)
-
 
 [linkedin]: https://linkedin.com/in/andreseichi
 [twitter]: https://twitter.com/andre_seichi
