@@ -21,7 +21,11 @@
 ### Softwares:
 
 <img align="left" alt="Aseprite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aseprite.svg" />
+<img align="left" alt="Photoshop" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
+<img align="left" alt="Blender" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blender.svg" />
+<img align="left" alt="Unity" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
 
+<br />
 
 ### Languages and Tools:
 
