@@ -1,4 +1,4 @@
-## I'm André Tashiro and I'm not a programmer
+<h2> I'm André Tashiro and I'm not a programmer </h2>
 
 <p align="center">
     <a href="https://twitter.com/intent/follow?screen_name=andre_seichi" alt="Follow on Twitter">
