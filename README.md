@@ -35,7 +35,7 @@
 ---
 
 <a>
-    <img align="center" alt="André Tashiro's GitHub Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true&hide=stars&count_private=true" />
+    <img align="center" alt="André Tashiro's GitHub Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true&hide=stars&include_all_commits=true" />
 </a>
 <a>
     <img align="center" alt="André Tashiro's Top Languages" src="https://github-readme-stats.andreseichi.vercel.app/api/top-langs/?username=andreseichi&langs_count=6&layout=compact" />
