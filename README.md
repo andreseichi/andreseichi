@@ -5,7 +5,7 @@
         <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/andre_seichi?color=%231DA1F2&logo=twitter&style=plastic" />
     </a>
     <a href="https://github.com/andreseichi" alt="andreseichi's github">
-        <img alt="Visited" src="https://badges.pufler.dev/visits/{andreseichi}/{andreseichi}>" />
+        <img alt="Visited" src="https://visitor-badge.glitch.me/badge?page_id=andreseichi.andreseichi>" />
     </a>
 </p>
 
