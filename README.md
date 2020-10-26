@@ -4,10 +4,10 @@
     <a href="https://twitter.com/intent/follow?screen_name=andre_seichi" alt="Follow on Twitter">
         <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/andre_seichi?color=%231DA1F2&logo=twitter&style=flat" />
     </a>
+    <img src="https://img.shields.io/badge/Discord-Andr%C3%A9%20Tashiro%231941-%237289DA?style=flat&logo=discord" />
     <a href="https://github.com/andreseichi" alt="andreseichi's github">
-        <img src="https://badges.pufler.dev/visits/andreseichi/andreseichi" />
+        <img src="https://badges.pufler.dev/visits/andreseichi/andreseichi?logo=discord" />
     </a>
-    <img src="https://img.shields.io/badge/Discord-Andr%C3%A9%20Tashiro%231941-%237289DA?logo=discord" />
 </p>
 
 ### Social media:
