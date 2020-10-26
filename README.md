@@ -4,8 +4,8 @@
     <a href="https://twitter.com/intent/follow?screen_name=andre_seichi" alt="Follow on Twitter">
         <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/andre_seichi?color=%231DA1F2&logo=twitter&style=plastic" />
     </a>
-    <a href="#" alt="andreseichi's github">
-        <img src="https://badges.pufler.dev/visits/andreseichi/andreseichi>" />
+    <a href="https://github.com/andreseichi" alt="andreseichi's github">
+        <img src="https://badges.pufler.dev/visits/andreseichi/andreseichi" />
     </a>
 </p>
 
