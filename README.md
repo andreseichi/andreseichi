@@ -7,6 +7,7 @@
     <a href="https://github.com/andreseichi" alt="andreseichi's github">
         <img src="https://badges.pufler.dev/visits/andreseichi/andreseichi" />
     </a>
+    <img src="https://img.shields.io/badge/Discord-Andr%C3%A9%20Tashiro%231941-%237289DA?logo=discord" />
 </p>
 
 ### Social media:
@@ -35,12 +36,10 @@
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 
-
 ### Want to learn:
 
 <code><img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-
 
 <br />
 
