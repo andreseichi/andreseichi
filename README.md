@@ -4,6 +4,9 @@
     <a href="https://twitter.com/intent/follow?screen_name=andre_seichi" alt="Follow on Twitter">
         <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/andre_seichi?color=%231DA1F2&logo=twitter&style=plastic" />
     </a>
+    <a href="https://github.com/andreseichi" alt="andreseichi's github">
+        <img alt="Visited" src="https://visitor-badge.glitch.me/badge?page_id=andreseichi.andreseichi>" />
+    </a>
 </p>
 
 ### Social media:
@@ -29,7 +32,7 @@
 <code><img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>
 <code><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
 
-<br />
+
 <br />
 
 ---
@@ -38,7 +41,7 @@
     <img align="center" alt="André Tashiro's GitHub Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true&hide=stars&include_all_commits=true" />
 </a>
 <a>
-    <img align="center" alt="André Tashiro's Top Languages" src="https://github-readme-stats.andreseichi.vercel.app/api/top-langs/?username=andreseichi&hide_border=true&layout=compact" />
+    <img align="center" alt="André Tashiro's Top Languages" src="https://github-readme-stats.andreseichi.vercel.app/api/top-langs/?username=andreseichi&hide_border=true&langs_count=6&layout=compact" />
 </a>
 
 [linkedin]: https://linkedin.com/in/andreseichi
