@@ -6,7 +6,7 @@
     </a>
     <img src="https://img.shields.io/badge/Discord-Andr%C3%A9%20Tashiro%231941-%237289DA?style=flat&logo=discord" />
     <a href="https://github.com/andreseichi" alt="andreseichi's github">
-        <img src="https://badges.pufler.dev/visits/andreseichi/andreseichi?logo=google-analytics" />
+        <img src="https://visitor-badge.glitch.me/badge?page_id=andreseichi.andreseichi" />
     </a>
 </p>
 
