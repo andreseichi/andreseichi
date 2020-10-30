@@ -48,7 +48,7 @@
 
 <p align="center">
     <img alt="André Tashiro's Github Stats" src="https://github-readme-stats.andreseichi.vercel.app//api?username=andreseichi&show_icons=true&hide_border=true&hide=stars&include_all_commits=true" />
-     <img align="center" alt="André Tashiro's Top Languages" src="https://github-readme-stats.andreseichi.vercel.app/api/top-langs/?username=andreseichi&hide_border=true&langs_count=6&layout=compact" />
+    <img align="center" alt="André Tashiro's Top Languages" src="https://github-readme-stats.andreseichi.vercel.app/api/top-langs/?username=andreseichi&hide_border=true&langs_count=6&layout=compact" />
 </p>
 
 
