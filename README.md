@@ -21,7 +21,6 @@
 
 ### Softwares:
 
-<img align="left" alt="VS Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" />
 <img align="left" alt="Aseprite" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/aseprite.svg" />
 <img align="left" alt="Photoshop" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />
 <img align="left" alt="Blender" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blender.svg" />
