@@ -1,6 +1,6 @@
 <h2 align="center"> I'm André Tashiro and I'm not a programmer </h2>
 
-<p align="center">
+<div style="display: inline_block"><br>
     <a href="https://twitter.com/intent/follow?screen_name=andre_seichi" alt="Follow on Twitter">
         <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/andre_seichi?color=%231DA1F2&logo=twitter&style=flat" />
     </a>
@@ -8,7 +8,8 @@
     <a href="https://github.com/andreseichi" alt="andreseichi's github">
         <img alt="Visit Count" src="https://badges.pufler.dev/visits/andreseichi/andreseichi?logo=google-analytics" />
     </a>
-</p>
+    <img height="120em" alt="pixel-art-dog" align="right" src="https://media.discordapp.net/attachments/831183446725361744/872465972055933020/dog-ufpa-pixelado.png">
+</div>
 
 ### Social media:
 
