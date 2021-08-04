@@ -49,12 +49,11 @@
 
 ---
 
-<a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreseichi&show_icons=true&theme=highcontrast&hide=stars" />
-</a>
-<a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreseichi&layout=compact&hide=php" />
-</a>
+ <div>
+  <a href="https://github.com/andreseichi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreseichi&show_icons=true&theme=highcontrast&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreseichi&layout=compact&hide=php&theme=highcontrast"/>
+</div>
 
 
 [linkedin]: https://linkedin.com/in/andreseichi
