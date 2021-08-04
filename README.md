@@ -1,9 +1,4 @@
 <h2 align="center"> I'm André Tashiro and I'm not a programmer </h2>
-<div>
-  <a href="https://github.com/andreseichi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreseichi&show_icons=true&theme=highcontrast&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreseichi&layout=compact&hide=php&theme=highcontrast"/>
-</div>
 
 <div style="display: inline_block"><br>
     <a href="https://twitter.com/intent/follow?screen_name=andre_seichi" alt="Follow on Twitter">
