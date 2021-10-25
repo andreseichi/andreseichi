@@ -12,6 +12,9 @@
 - 🔭 Looking for a React Developer job
 - ⚛ Currently improving my skills with ReactJS
 - 🎮 Gamer (you can call me to play together) and 🎵 music lover
+- 🖼 I make some Pixel Art as a hobby
+
+![Pixel-Art](https://cdn.discordapp.com/attachments/831183446725361744/902333902188867646/shelter-pixelart-bg.png)
 
 ## Softwares:
 
