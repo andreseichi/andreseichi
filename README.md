@@ -9,6 +9,7 @@
 </div>
 
 # Hello there, I'm André Tashiro 🐕
+- 👨‍💻 Front-end Web Developer
 - 🔭 Looking for a React Developer job
 - ⚛ Currently improving my skills with ReactJS
 - 🎮 Gamer (you can call me to play together) and 🎵 music lover
