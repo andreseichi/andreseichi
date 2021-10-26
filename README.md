@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/andreseichi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/andre_seichi)
 ![Discord](https://img.shields.io/badge/Discord-Andr%C3%A9%20Tashiro%231941-%237289DA?style=flat&labelColor=0D0D0D&logo=discord&Color=white)
+[![Resume](https://img.shields.io/badge/Resume-060606?style=flat&labelColor=0D0D0D&logo=DocuSign&Color=white)](https://github.com/andreseichi/andreseichi/raw/master/Resume.pdf)
 ![Visits](https://badges.pufler.dev/visits/andreseichi/andreseichi?logo=google-analytics&labelColor=0D0D0D)
     
 <img height="120em" alt="pixel-art-dog" align="right" src="https://media.discordapp.net/attachments/831183446725361744/872465972055933020/dog-ufpa-pixelado.png">
