@@ -10,11 +10,10 @@
 </div>
 
 # Hello there, I'm André Tashiro 🐕
-- 👨‍💻 Front-end Web Developer
-- 🔭 Looking for a React Developer job
-- ⚛ Currently improving my skills with ReactJS
+- 👨‍💻 Fullstack web developer
+- ⚛ Currently gathering knowledge with Ignite from Rocketseat 🚀 and Driven's fullstack bootcamp
 - 🎮 Gamer (you can call me to play together) and 🎵 music lover
-- 🖼 I make some Pixel Art as a hobby
+- 🖼 I do some Pixel Art as a hobby
 
 ![Pixel-Art](https://cdn.discordapp.com/attachments/831183446725361744/902333902188867646/shelter-pixelart-bg.png)
 
@@ -48,15 +47,6 @@
   <img align="center" alt="Postgresql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-</div>
-
-## Want to learn:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Deno" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
-  <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-  <img align="center" alt="Mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
 </div>
 
 <br />
