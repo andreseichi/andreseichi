@@ -10,8 +10,8 @@
 </div>
 
 # Hello there, I'm André Tashiro 🐕
-- 👨‍💻 Fullstack web developer
-- ⚛ Currently gathering knowledge with Ignite from Rocketseat 🚀 and Driven's fullstack bootcamp
+- 👨‍💻 Software Engineer experienced with fullstack web development
+- ❤️ I love frontend and all the React ecosystem
 - 🎮 Gamer (you can call me to play together) and 🎵 music lover
 - 🖼 I do some Pixel Art as a hobby
 
