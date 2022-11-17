@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreseichi/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/andre_seichi)
 ![Discord](https://img.shields.io/badge/Tashiro%231941-%235865F2.svg?style=for-the-badge&labelColor=%235865F2&logo=discord&logoColor=white)
-[![Resume](https://img.shields.io/badge/Resume-060606?style=for-the-badge&labelColor=0D0D0D&logo=DocuSign&Color=white)](https://github.com/andreseichi/andreseichi/raw/master/Resume.pdf)
-![Visits](https://badges.pufler.dev/visits/andreseichi/andreseichi?logo=google-analytics&labelColor=0D0D0D)
+[![Curriculo](https://img.shields.io/badge/🇧🇷_Currículo-%2320232a.svg?style=for-the-badge&logo=DocuSign&logoColor=%0D0D0D)](https://github.com/andreseichi/andreseichi/raw/master/Curriculo.pdf)
+[![Resume](https://img.shields.io/badge/🇺🇸_Resume-%2320232a.svg?style=for-the-badge&logo=DocuSign&logoColor=%0D0D0D)](https://github.com/andreseichi/andreseichi/raw/master/Curriculo.pdf)
     
 <img height="120em" alt="pixel-art-dog" align="right" src="https://media.discordapp.net/attachments/831183446725361744/872465972055933020/dog-ufpa-pixelado.png">
 </div>
