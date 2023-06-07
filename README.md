@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/andre_seichi)
 ![Discord](https://img.shields.io/badge/Tashiro%231941-%235865F2.svg?style=for-the-badge&labelColor=%235865F2&logo=discord&logoColor=white)
 [![Curriculo](https://img.shields.io/badge/Currículo_🇧🇷-%2320232a.svg?style=for-the-badge&logo=DocuSign&logoColor=%0D0D0D)](https://github.com/andreseichi/andreseichi/raw/master/Curriculo.pdf)
-[![Resume](https://img.shields.io/badge/Resume_🇺🇸-%2320232a.svg?style=for-the-badge&logo=DocuSign&logoColor=%0D0D0D)](https://github.com/andreseichi/andreseichi/raw/master/Curriculo.pdf)
+[![Resume](https://img.shields.io/badge/Resume_🇺🇸-%2320232a.svg?style=for-the-badge&logo=DocuSign&logoColor=%0D0D0D)](https://github.com/andreseichi/andreseichi/raw/master/Resume.pdf)
     
 <img height="120em" alt="pixel-art-dog-brasil" align="right" src="https://cdn.discordapp.com/attachments/831183446725361744/1046223743581683813/dog-ufpa-pixelado-copa.png">
 </div>
