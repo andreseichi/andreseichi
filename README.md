@@ -6,7 +6,7 @@
 [![Curriculo](https://img.shields.io/badge/Currículo_🇧🇷-%2320232a.svg?style=for-the-badge&logo=DocuSign&logoColor=%0D0D0D)](https://github.com/andreseichi/andreseichi/raw/master/Curriculo.pdf)
 [![Resume](https://img.shields.io/badge/Resume_🇺🇸-%2320232a.svg?style=for-the-badge&logo=DocuSign&logoColor=%0D0D0D)](https://github.com/andreseichi/andreseichi/raw/master/Resume.pdf)
     
-<img height="120em" alt="pixel-art-dog-brasil" align="right" src="https://cdn.discordapp.com/attachments/831183446725361744/1046223743581683813/dog-ufpa-pixelado-copa.png">
+<img height="120em" alt="pixel-art-dog-brasil" align="right" src="https://i.ibb.co/41Wy2q8/dog-ufpa-pixelado-copa-tapioca.png">
 </div>
 
 # Hello there, I'm André Tashiro 🐕
@@ -15,7 +15,7 @@
 - 🎮 Gamer (you can call me to play together) and 🎵 music lover
 - 🖼 I do some Pixel Art as a hobby
 
-![Pixel-Art](https://cdn.discordapp.com/attachments/831183446725361744/902333902188867646/shelter-pixelart-bg.png)
+![Pixel-Art](https://i.ibb.co/BGSQkc7/shelter-pixelart-bg.png)
 
 ## Softwares:
 
